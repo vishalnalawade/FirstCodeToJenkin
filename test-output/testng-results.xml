@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-28T11:26:26 IST" name="Default suite" finished-at="2026-09-28T11:26:28 IST" duration-ms="2096">
+    <groups>
+    </groups>
+    <test started-at="2026-09-28T11:26:26 IST" name="Default test" finished-at="2026-09-28T11:26:28 IST" duration-ms="2096">
+      <class name="Restassured.JenkinProjectTorun.Homepage">
+        <test-method signature="GotoAppurl()[pri:0, instance:Restassured.JenkinProjectTorun.Homepage@31000e60]" started-at="2026-09-28T11:26:26 IST" name="GotoAppurl" finished-at="2026-09-28T11:26:27 IST" duration-ms="1450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoAppurl -->
+        <test-method signature="customerLogin()[pri:0, instance:Restassured.JenkinProjectTorun.Homepage@31000e60]" started-at="2026-09-28T11:26:27 IST" name="customerLogin" finished-at="2026-09-28T11:26:28 IST" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLogin -->
+      </class> <!-- Restassured.JenkinProjectTorun.Homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
